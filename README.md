@@ -3,10 +3,10 @@
 **BIM493 - Mobile Programming I | Assignment #1**
 
 ## Team Members
-| Full Name | Student ID | Contribution |
-| :--- | :--- | :--- |
-| **[Selin Erdoğan]** | **[—]** | Event data model, Explore/Favorites/My Events views, Search & category filters, README documentation |
-| **[Ozan Yantur]** | **[—]** | Event card widget, Event details & double-tap image viewer, Join/Cancel confirmation dialogs & capacity logic, Custom font & bundled assets |
+| Full Name | Contribution |
+| :--- | :--- |
+| **Selin Erdoğan** | Event data model, Explore/Favorites/My Events views, Search & category filters, README documentation |
+| **Ozan Yantur** | Event card widget, Event details & double-tap image viewer, Join/Cancel confirmation dialogs & capacity logic, Custom font & bundled assets |
 
 ---
 
@@ -57,11 +57,11 @@ Checked with `flutter analyze` (no issues) and `flutter test` (widget tests in `
 ---
 
 ## Screenshots
-*(Add at least 4 screenshots before submission)*
-1. **Explore Screen:** `screenshots/explore.png`
-2. **Event Details & Double-Tap Image Viewer:** `screenshots/details.png`
-3. **Favorites Screen:** `screenshots/favorites.png`
-4. **My Events Screen:** `screenshots/my_events.png`
+| Explore | Event Details | Favorites | My Events |
+| :---: | :---: | :---: | :---: |
+| <img src="assets/screenshots/explore.png" width="200"> | <img src="assets/screenshots/details.png" width="200"> | <img src="assets/screenshots/favorites.png" width="200"> | <img src="assets/screenshots/my_events.png" width="200"> |
+
+Double-tap on the event image opens the enlarged viewer (`assets/screenshots/viewer.png`).
 
 ---
 
